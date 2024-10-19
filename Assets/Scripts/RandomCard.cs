@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class RandomCard : MonoBehaviour
 {
-    [SerializeField] CardController cardController;
+    [SerializeField] CardVisual cardController;
     public List<CardData> cardList = new List<CardData>();
 
     public void RandomiseCard()
