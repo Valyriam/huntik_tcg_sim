@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3315d5fcec24bb40b6cd7792266fa2e, type: 3}
+  m_Name: Stun
+  m_EditorClassIdentifier: 
+  keywordName: 1
+  keywordTooltip: A stunned character is exhausted and turned face down. It remains
+    in its current zone, but can't block, ready, move, or enter any other zone. A
+    stunned card has no text or tags, but keeps its name, controller, owner, and
+    any counters that are on it.

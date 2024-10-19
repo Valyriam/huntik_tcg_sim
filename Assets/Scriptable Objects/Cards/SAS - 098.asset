@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 098
+  m_EditorClassIdentifier: 
+  cardTitle: Boltflare
+  cardSubtitle: 
+  cardType: 2
+  cardSubtype: 11
+  cardAlignment: 0
+  attackValue: 0
+  defenceValue: 0
+  cardVisual: {fileID: 21300000, guid: c2e6bcd425c3ad94ca573584eccb3b46, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 11e29332c907ae94a994ebae8244eb05, type: 3}
+  cardIcon: {fileID: 0}
+  cardText: Draw a card. Stun target enemy minor hero in this combat. <i>(Remove
+    its attacks from this combat.)</i>
+  flavourText: "One of the first powers any Seeker learns \u2013 and one they learn
+    to rely on."
+  cardSet: 0
+  cardNumber: 098
+  keywords:
+  - {fileID: 11400000, guid: a71628ff4e703df459189e7bd3edfa22, type: 2}

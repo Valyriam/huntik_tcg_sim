@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 136
+  m_EditorClassIdentifier: 
+  cardTitle: Zoom
+  cardSubtitle: 
+  cardType: 2
+  cardSubtype: 13
+  cardAlignment: 1
+  attackValue: 0
+  defenceValue: 0
+  cardVisual: {fileID: 21300000, guid: dec135beff7f03d4a876698c12cd6ae7, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 321cfdc9da61c6d4b8089fcae6babbe0, type: 3}
+  cardIcon: {fileID: 0}
+  cardText: 'Draw a card. I am <b>unblockable</b> this round. <i>I can move forward
+    through zones with enemy heroes.)</i>
+
+    Move me up to 2 zones. <i>I can start
+    a combat.</i>'
+  flavourText: "Don't let anything stand in your way!\" \u2013Suit"
+  cardSet: 0
+  cardNumber: 136
+  keywords: []

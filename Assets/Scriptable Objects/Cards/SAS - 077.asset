@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 077
+  m_EditorClassIdentifier: 
+  cardTitle: Akmen-Meo
+  cardSubtitle: Spirit Guide
+  cardType: 1
+  cardSubtype: 4
+  cardAlignment: 1
+  attackValue: 1
+  defenceValue: 1
+  cardVisual: {fileID: 21300000, guid: 4c269bcc9a412d94c92a86fd5a66a4ab, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 2e90a622ae7632e4ab5e45c25bd92ba6, type: 3}
+  cardIcon: {fileID: 21300000, guid: 898073d9c03f219469dbf6a9d7c2591e, type: 3}
+  cardText: "<b>Loremaster</b> \u2014 Exhaust Action: Draw a card, then discard a
+    card."
+  flavourText: "\"She has a curious ability to sift through ancient texts. I'd love
+    to have her in my library.\" \u2013Tersly"
+  cardSet: 0
+  cardNumber: 077
+  keywords: []

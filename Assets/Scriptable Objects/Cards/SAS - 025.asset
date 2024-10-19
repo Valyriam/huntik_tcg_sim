@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 025
+  m_EditorClassIdentifier: 
+  cardTitle: Ammit Heart-Eater
+  cardSubtitle: Rassimov's Pet
+  cardType: 0
+  cardSubtype: 4
+  cardAlignment: 1
+  attackValue: 4
+  defenceValue: 5
+  cardVisual: {fileID: 21300000, guid: 5f5f03bcb3a283640ac7dea5c5d87e94, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 6240caf1ff22a4e4480b9073816a5505, type: 3}
+  cardIcon: {fileID: 21300000, guid: d8830db6e879bfe4fb10125b66b6fc7d, type: 3}
+  cardText: 
+  flavourText: "\"It's better to run than to face Ammit's teeth.\" \u2013Ethan's
+    journal"
+  cardSet: 0
+  cardNumber: 025
+  keywords: []

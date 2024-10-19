@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 047
+  m_EditorClassIdentifier: 
+  cardTitle: Sekhmet
+  cardSubtitle: Feline Assassin
+  cardType: 0
+  cardSubtype: 4
+  cardAlignment: 1
+  attackValue: 3
+  defenceValue: 5
+  cardVisual: {fileID: 21300000, guid: f7774ea48472a0f43b3c02dd78a1ef7c, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 14a05de0ca46cfc4ab25cdd51b562077, type: 3}
+  cardIcon: {fileID: 21300000, guid: 7c3c20a6988b3ce47856fb51ca895ed9, type: 3}
+  cardText: "<b>Unblockable</b>\n<b>Backstab</b> \u2014 When I move into a zone,
+    you may return target enemy minor hero there to its owner's hand."
+  flavourText: 
+  cardSet: 0
+  cardNumber: 047
+  keywords:
+  - {fileID: 11400000, guid: 72a0d7730a6aa5246a224d3efb2a5fa6, type: 2}

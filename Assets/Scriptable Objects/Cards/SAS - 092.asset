@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 092
+  m_EditorClassIdentifier: 
+  cardTitle: Storm Gladiator
+  cardSubtitle: Wind and Metal
+  cardType: 1
+  cardSubtype: 5
+  cardAlignment: 1
+  attackValue: 3
+  defenceValue: 3
+  cardVisual: {fileID: 21300000, guid: 7e741395157f7e14c80918bc5a678f2b, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 0bc056c6bb592f943a9a22c6bcc2b5d8, type: 3}
+  cardIcon: {fileID: 21300000, guid: 426131e4eb079f04dbc73ddd14145800, type: 3}
+  cardText: '<b>Unblockable</b> <i>(I can move forward through zones with enemy heroes.)</i>
+
+    I
+    come into play exhausted.'
+  flavourText: Storm Gladiator appears as a motionless pile of armor that animates
+    itself by drawing in nearby air.
+  cardSet: 0
+  cardNumber: 092
+  keywords:
+  - {fileID: 11400000, guid: 72a0d7730a6aa5246a224d3efb2a5fa6, type: 2}

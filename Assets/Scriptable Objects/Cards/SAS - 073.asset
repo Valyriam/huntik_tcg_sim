@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 073
+  m_EditorClassIdentifier: 
+  cardTitle: Tolivane
+  cardSubtitle: Little Helper
+  cardType: 1
+  cardSubtype: 3
+  cardAlignment: 0
+  attackValue: 2
+  defenceValue: 2
+  cardVisual: {fileID: 21300000, guid: a7a5d0530fcc928448a37453ff4685db, type: 3}
+  cardPortrait: {fileID: 21300000, guid: f43885deb5b3784428bdfae5a937a326, type: 3}
+  cardIcon: {fileID: 21300000, guid: dc18843812180034f81985ec52e82816, type: 3}
+  cardText: "<b>Inspiration</b> \u2014 Exhaust Action: Target minor hero gets +1
+    ATK and +1 DEF this round. Go again."
+  flavourText: Tolivane is good for assisting other Titans, but he's not so tough
+    on his own.
+  cardSet: 0
+  cardNumber: 073
+  keywords: []

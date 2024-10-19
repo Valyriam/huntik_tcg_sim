@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 064
+  m_EditorClassIdentifier: 
+  cardTitle: LeBlanche
+  cardSubtitle: Prim and Proper
+  cardType: 1
+  cardSubtype: 1
+  cardAlignment: 0
+  attackValue: 2
+  defenceValue: 2
+  cardVisual: {fileID: 21300000, guid: 8355291a99df70946916ad0da686142f, type: 3}
+  cardPortrait: {fileID: 21300000, guid: ccbac0451a7d371439e0d87770d257c4, type: 3}
+  cardIcon: {fileID: 21300000, guid: 61bdeb343c3da6741bfd6ab97885c3f1, type: 3}
+  cardText: "<b>Bring the Cavalry</b> \u2014 If you play me from your hand in round
+    3 or later, you may play an extra major hero this round."
+  flavourText: '"Nothing prepares a young Seeker more effectively than discipline,
+    education, and fine biscuits."'
+  cardSet: 0
+  cardNumber: 064
+  keywords: []

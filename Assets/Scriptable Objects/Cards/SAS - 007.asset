@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 007
+  m_EditorClassIdentifier: 
+  cardTitle: Ignatius
+  cardSubtitle: Walking Volcano
+  cardType: 0
+  cardSubtype: 7
+  cardAlignment: 0
+  attackValue: 4
+  defenceValue: 4
+  cardVisual: {fileID: 21300000, guid: f328a25ef1be4514db2d1a4985538828, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 5f39554f589481f4f8a76fc07d3bf31e, type: 3}
+  cardIcon: {fileID: 21300000, guid: 020f31f8c6de5814a97538831402a939, type: 3}
+  cardText: "<b>Burn</b> \u2014 Free Action: Discard a card to give me +2 ATK and
+    +2 DEF this round. (Use only if I'm not in combat.)"
+  flavourText: If you play with Ignatius, you're going to get burned.
+  cardSet: 0
+  cardNumber: 007
+  keywords: []

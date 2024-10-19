@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 175
+  m_EditorClassIdentifier: 
+  cardTitle: Bull
+  cardSubtitle: 
+  cardType: 4
+  cardSubtype: 16
+  cardAlignment: 2
+  attackValue: 0
+  defenceValue: 0
+  cardVisual: {fileID: 21300000, guid: 5eb86af15377bb748a68d01fdefd5bdd, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 03d1ff49dd319ab4083ffba258e573cf, type: 3}
+  cardIcon: {fileID: 0}
+  cardText: "The Bull doesn't ready as normal.\n<b>Adrenaline Surge</b> \u2014 While
+    this Bull is ready, when a hero uses its printed Exhaust Action in this zone,
+    that hero's controller may ready it and exhaust this Bull.\nLead heroes in this
+    zone get \"<b>Push the Argo</b> \u2014 Exhaust Action: Put this Bull into zone
+    1.\""
+  flavourText: 
+  cardSet: 0
+  cardNumber: 175
+  keywords: []

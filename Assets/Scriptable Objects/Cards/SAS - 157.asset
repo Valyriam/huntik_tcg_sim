@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 157
+  m_EditorClassIdentifier: 
+  cardTitle: Control the Idols of Omeed
+  cardSubtitle: 
+  cardType: 3
+  cardSubtype: 17
+  cardAlignment: 2
+  attackValue: 0
+  defenceValue: 0
+  cardVisual: {fileID: 21300000, guid: 35a5a04c17399cd48ace36332d364939, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 58025346888f81947b2eeb9697122801, type: 3}
+  cardIcon: {fileID: 0}
+  cardText: "\u2022    Put 1 Golden Idol each into zones 1 and 5.\n\u2022    At the
+    end of each round, each player scores 1 point for each of their heroes in zone
+    3, 2 points for each of their heroes in zone 4, and 3 points for each of their
+    heroes in zone 5.\n\u2022    At the end of round 7, the player with the most
+    points wins."
+  flavourText: 
+  cardSet: 0
+  cardNumber: 157
+  keywords: []

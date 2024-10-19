@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 086
+  m_EditorClassIdentifier: 
+  cardTitle: Madea
+  cardSubtitle: Master of Illusions
+  cardType: 1
+  cardSubtype: 5
+  cardAlignment: 1
+  attackValue: 2
+  defenceValue: 1
+  cardVisual: {fileID: 21300000, guid: 5fa37ddd3ad664242963688ff9a8ef94, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 8bd3d8ad8e78b6444a8ffaf9d9a156df, type: 3}
+  cardIcon: {fileID: 21300000, guid: 5b62b9d99ea68f343a62a9f19e00e8f3, type: 3}
+  cardText: "<b>Mind Lure</b> \u2014 Exhaust Action: Put target enemy hero that's
+    up to 2 zones away from me into my zone. Start a combat."
+  flavourText: "\"She'll have you thinking your head's on backwards.\" \u2013Dante
+    Vale"
+  cardSet: 0
+  cardNumber: 086
+  keywords: []

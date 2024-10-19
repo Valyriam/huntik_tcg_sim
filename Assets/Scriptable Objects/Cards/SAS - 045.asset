@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 045
+  m_EditorClassIdentifier: 
+  cardTitle: The Professor
+  cardSubtitle: Leader of the Organization
+  cardType: 0
+  cardSubtype: 1
+  cardAlignment: 1
+  attackValue: 4
+  defenceValue: 5
+  cardVisual: {fileID: 21300000, guid: ae01bd6ccf4263b4d9dfebe5b5039ef9, type: 3}
+  cardPortrait: {fileID: 21300000, guid: e0a7c4a5db024b448ab9704b0b70a07c, type: 3}
+  cardIcon: {fileID: 21300000, guid: b04c13ed9a84f6840bfa716121612f3d, type: 3}
+  cardText: "Whenever I play a Slipstream card, ready me.\n<b>Mindblast</b> \u2014
+    When I start a combat, I may stun target enemy hero in that combat."
+  flavourText: 
+  cardSet: 0
+  cardNumber: 045
+  keywords:
+  - {fileID: 11400000, guid: a71628ff4e703df459189e7bd3edfa22, type: 2}

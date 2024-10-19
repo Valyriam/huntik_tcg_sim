@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 143
+  m_EditorClassIdentifier: 
+  cardTitle: Shadowspeed
+  cardSubtitle: 
+  cardType: 2
+  cardSubtype: 12
+  cardAlignment: 1
+  attackValue: 0
+  defenceValue: 0
+  cardVisual: {fileID: 21300000, guid: a4ae58a3678dcc443808bf07eb6ae6e2, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 137fd7f82bff1364d98a3cf60200574a, type: 3}
+  cardIcon: {fileID: 0}
+  cardText: Ready target hero.
+  flavourText: "\"Just like that, he was back on his feet and plowing through us!\"
+    \u2013Lok Lambert"
+  cardSet: 0
+  cardNumber: 143
+  keywords: []

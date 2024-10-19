@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 050
+  m_EditorClassIdentifier: 
+  cardTitle: Ymir
+  cardSubtitle: Frost Giant
+  cardType: 0
+  cardSubtype: 6
+  cardAlignment: 1
+  attackValue: 6
+  defenceValue: 5
+  cardVisual: {fileID: 21300000, guid: 09178191d0560a8458a7f6ecc723b060, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 81f035a4d1c06a24b984e313389a58fa, type: 3}
+  cardIcon: {fileID: 21300000, guid: 1e1de33338aa4f24383d07136712f51a, type: 3}
+  cardText: When I come into play, discard card or you must eliminate me. At the
+    start of each rounf, put all Ice Creature cards from your discard pile into play
+    in my zone.
+  flavourText: 
+  cardSet: 0
+  cardNumber: 050
+  keywords: []

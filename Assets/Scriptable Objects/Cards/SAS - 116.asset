@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 116
+  m_EditorClassIdentifier: 
+  cardTitle: Earthtide
+  cardSubtitle: 
+  cardType: 2
+  cardSubtype: 12
+  cardAlignment: 0
+  attackValue: 0
+  defenceValue: 0
+  cardVisual: {fileID: 21300000, guid: ad40bdaa0920fe1448e8555ea643b1b6, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 574e70f34161c5146be78c973e8047e4, type: 3}
+  cardIcon: {fileID: 0}
+  cardText: 'This round, all heroes get "Exhaust Action: Stun target hero."'
+  flavourText: "\"I know something that will keep them off their feet!\" \u2013Zhalia
+    Moon"
+  cardSet: 0
+  cardNumber: 116
+  keywords: []

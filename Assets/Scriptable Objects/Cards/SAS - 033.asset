@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 033
+  m_EditorClassIdentifier: 
+  cardTitle: Grier
+  cardSubtitle: Loyal to the Core
+  cardType: 0
+  cardSubtype: 1
+  cardAlignment: 1
+  attackValue: 4
+  defenceValue: 4
+  cardVisual: {fileID: 21300000, guid: 2563117628a566a4e9dcdd952e11a740, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 657f1a50f74832c40aa7c2e407309d78, type: 3}
+  cardIcon: {fileID: 21300000, guid: b04c13ed9a84f6840bfa716121612f3d, type: 3}
+  cardText: "<b>Recruiter</b> \u2014 At the start of each round, reveal the top card
+    of your deck. If it's a Suit card, put it into my zone. If not, put it into your
+    discard pile."
+  flavourText: '"I have nothing but respect for the chain of command, sir."'
+  cardSet: 0
+  cardNumber: 033
+  keywords: []

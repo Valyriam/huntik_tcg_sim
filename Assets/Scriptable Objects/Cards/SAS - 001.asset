@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 001
+  m_EditorClassIdentifier: 
+  cardTitle: Caliban
+  cardSubtitle: Dante's Titan
+  cardType: 0
+  cardSubtype: 7
+  cardAlignment: 0
+  attackValue: 8
+  defenceValue: 6
+  cardVisual: {fileID: 21300000, guid: d35f5cc2b9252a34cb58704b2b2ff4f6, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 040fc633aa7e2f84fbcf00e1aafbf0fc, type: 3}
+  cardIcon: {fileID: 21300000, guid: 9d7662caf1b81bd4c81ba95a1caf75d6, type: 3}
+  cardText: At the start of each round, discard a card or you must eliminate me.
+    If you discard a Caliban card this way, draw a card.
+  flavourText: "\"Caliban! You have a challenger!\" \u2013Dante Vale"
+  cardSet: 0
+  cardNumber: 001
+  keywords: []

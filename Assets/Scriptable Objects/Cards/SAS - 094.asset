@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 094
+  m_EditorClassIdentifier: 
+  cardTitle: Suit
+  cardSubtitle: Mr. Mactavish, Prague Agent
+  cardType: 1
+  cardSubtype: 1
+  cardAlignment: 1
+  attackValue: 3
+  defenceValue: 2
+  cardVisual: {fileID: 21300000, guid: 5b7255c3c247025419b697e64bfc6965, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 9abc35ed3c1f7a04cbe636b918ee152e, type: 3}
+  cardIcon: {fileID: 21300000, guid: b04c13ed9a84f6840bfa716121612f3d, type: 3}
+  cardText: "Headhunter \u2014 Exhaust Action: Put any number of Suit cards from
+    your discard pile on top of your deck."
+  flavourText: "\"For every Suit in Venice, there are a hundred in Prague. It's the
+    home of the Organization.\" \u2013Dante Vale"
+  cardSet: 0
+  cardNumber: 094
+  keywords: []

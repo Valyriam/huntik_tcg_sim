@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 154
+  m_EditorClassIdentifier: 
+  cardTitle: Get the Argo Out of the Water
+  cardSubtitle: 
+  cardType: 3
+  cardSubtype: 18
+  cardAlignment: 2
+  attackValue: 0
+  defenceValue: 0
+  cardVisual: {fileID: 21300000, guid: ae920566430504f46bcb7009bd60db8e, type: 3}
+  cardPortrait: {fileID: 21300000, guid: ff35d9acbf91bca48be9d7c1ba1ef520, type: 3}
+  cardIcon: {fileID: 0}
+  cardText: "\u2022    Put the Argo into zone 1.\n\u2022    If the Argo is in zone
+    5, you win."
+  flavourText: 
+  cardSet: 0
+  cardNumber: 154
+  keywords: []

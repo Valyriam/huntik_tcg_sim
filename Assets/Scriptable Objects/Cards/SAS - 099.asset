@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 099
+  m_EditorClassIdentifier: 
+  cardTitle: Honorguard
+  cardSubtitle: 
+  cardType: 2
+  cardSubtype: 11
+  cardAlignment: 0
+  attackValue: 0
+  defenceValue: 0
+  cardVisual: {fileID: 21300000, guid: 78ac8d026d85a8941a74193cab9d3c71, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 5c8b38484ee69ca43a116280c9c8ea59, type: 3}
+  cardIcon: {fileID: 0}
+  cardText: Remove 2 enemy attacks from this combat.
+  flavourText: Created by the Casterwills, this is a must in every Seeker's arsenal.
+  cardSet: 0
+  cardNumber: 099
+  keywords: []

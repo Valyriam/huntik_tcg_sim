@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 030
+  m_EditorClassIdentifier: 
+  cardTitle: Fan Dancer
+  cardSubtitle: Fast and Furious
+  cardType: 0
+  cardSubtype: 9
+  cardAlignment: 1
+  attackValue: 2
+  defenceValue: 2
+  cardVisual: {fileID: 21300000, guid: a9e0b71ef61a86d40b479639ea8165ef, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 221583469818ee147b2b2ac2206d3482, type: 3}
+  cardIcon: {fileID: 21300000, guid: 32852a4e917a6e94f871e49c617e926d, type: 3}
+  cardText: "<b>Lead the Charge</b> \u2014 Exhaust Action: Put a hero card from your
+    hand into zone 1. Put me 1 zone forward. (I can't start a combat.)"
+  flavourText: Fan Dancer is tough, but she's just the opening act.
+  cardSet: 0
+  cardNumber: 030
+  keywords: []

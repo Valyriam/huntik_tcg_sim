@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 004
+  m_EditorClassIdentifier: 
+  cardTitle: Freelancer
+  cardSubtitle: Knightly Titan
+  cardType: 0
+  cardSubtype: 2
+  cardAlignment: 0
+  attackValue: 3
+  defenceValue: 3
+  cardVisual: {fileID: 21300000, guid: 936d4159ce2155c4a96baa88b134006e, type: 3}
+  cardPortrait: {fileID: 21300000, guid: ffd5807e68553224d8abae3859259816, type: 3}
+  cardIcon: {fileID: 21300000, guid: 30ad391516a7aa849b6e739a3d369882, type: 3}
+  cardText: At the start of each round, discard a card or you must eliminate me.
+    If you discard a Caliban card this way, draw a card.
+  flavourText: Liek the noble knights of old, Freelancer rides out to meet his foes.
+  cardSet: 0
+  cardNumber: 004
+  keywords: []

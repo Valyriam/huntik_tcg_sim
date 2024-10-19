@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 037
+  m_EditorClassIdentifier: 
+  cardTitle: Janus Knight
+  cardSubtitle: Dark Charger
+  cardType: 0
+  cardSubtype: 2
+  cardAlignment: 1
+  attackValue: 6
+  defenceValue: 3
+  cardVisual: {fileID: 21300000, guid: ebbab1b89191ae747991bc096a6aac7b, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 50312f7f362a40445880497ee58d4e02, type: 3}
+  cardIcon: {fileID: 21300000, guid: fd76c5f66ed135446957eb174cce5dc9, type: 3}
+  cardText: 
+  flavourText: This Titan once guarded temples in the era of Camelot, defeating evil
+    knights with his two mighty broadswords.
+  cardSet: 0
+  cardNumber: 037
+  keywords: []

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 173
+  m_EditorClassIdentifier: 
+  cardTitle: 'Ymir: Frost King'
+  cardSubtitle: 
+  cardType: 4
+  cardSubtype: 14
+  cardAlignment: 2
+  attackValue: 6
+  defenceValue: 5
+  cardVisual: {fileID: 21300000, guid: 6cb634f960eee14478b16bcf7e66f9a5, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 9b6a075639b521a4499c3a45cca98b78, type: 3}
+  cardIcon: {fileID: 0}
+  cardText: '<b>Controlled By:</b> Defending Player
+
+    Ymir: Frost King can''t
+    move on his own.
+
+    Exhaust Action: Start a combat in Ymir: Frost King''s zone.
+
+    Attacks
+    can''t be aimed at Ymir: Frost King while a Frost Minion is in his zone.'
+  flavourText: 
+  cardSet: 0
+  cardNumber: 173
+  keywords: []

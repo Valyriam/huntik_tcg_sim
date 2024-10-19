@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 018
+  m_EditorClassIdentifier: 
+  cardTitle: Sandra Lambert
+  cardSubtitle: Retired Seeker
+  cardType: 0
+  cardSubtype: 1
+  cardAlignment: 0
+  attackValue: 3
+  defenceValue: 5
+  cardVisual: {fileID: 21300000, guid: 571023b4746ad884aab786be36e4dd84, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 55502b59ec29042428ec980176b12b44, type: 3}
+  cardIcon: {fileID: 21300000, guid: 61bdeb343c3da6741bfd6ab97885c3f1, type: 3}
+  cardText: "<b>Wake Up!</b> \u2014 When you play me from your hand, you may ready
+    a friendly minor hero."
+  flavourText: '"Once a Foundation girl, always a Foundation girl."'
+  cardSet: 0
+  cardNumber: 018
+  keywords: []

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 021
+  m_EditorClassIdentifier: 
+  cardTitle: Shinobi
+  cardSubtitle: Smoke Ninja
+  cardType: 0
+  cardSubtype: 9
+  cardAlignment: 0
+  attackValue: 4
+  defenceValue: 4
+  cardVisual: {fileID: 21300000, guid: c8ddc0402851fa74c9e1cd79ac4cadac, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 42b69b6c79d05194c9cc2318c7258f2e, type: 3}
+  cardIcon: {fileID: 21300000, guid: 4de867b3f5b4cdf43b51c30f2534a762, type: 3}
+  cardText: "<b>Ninja Flight</b> \u2014 I can move up to 3 zones forward."
+  flavourText: Shinobi is as quiet as shadow and as fast as darkness itself.
+  cardSet: 0
+  cardNumber: 021
+  keywords: []

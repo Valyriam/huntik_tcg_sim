@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 082
+  m_EditorClassIdentifier: 
+  cardTitle: Gawain
+  cardSubtitle: Forest Warrior
+  cardType: 1
+  cardSubtype: 3
+  cardAlignment: 1
+  attackValue: 2
+  defenceValue: 2
+  cardVisual: {fileID: 21300000, guid: dc156a88637fddc4aa668f90e94142bc, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 720c11490ab821a45979b2e8f8d09cdb, type: 3}
+  cardIcon: {fileID: 21300000, guid: 6dc45efd6d529fb46af62e21128486eb, type: 3}
+  cardText: When you discard me from your hand, ready target hero.
+  flavourText: Corrupted by pollution, Gawain is a fallen nature Titan that serves
+    evil.
+  cardSet: 0
+  cardNumber: 082
+  keywords: []

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 085
+  m_EditorClassIdentifier: 
+  cardTitle: Jeweled Colossus
+  cardSubtitle: Heart of Stone
+  cardType: 1
+  cardSubtype: 6
+  cardAlignment: 1
+  attackValue: 3
+  defenceValue: 2
+  cardVisual: {fileID: 21300000, guid: 88ff248c42dc82942a3c2f5bf9bf1d94, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 49783eea758f40d4798c0f09b6b78993, type: 3}
+  cardIcon: {fileID: 21300000, guid: 2a48fd9450ffbba42bbe7510dbebb7eb, type: 3}
+  cardText: "<b>Finishing Move</b> \u2014 Free Action: Eliminate me to KO a stunned
+    hero in my zone."
+  flavourText: "\"If he weren't a Titan, he'd be worth a zillion dollars!\" \u2013Lok
+    Lambert"
+  cardSet: 0
+  cardNumber: 085
+  keywords:
+  - {fileID: 11400000, guid: a71628ff4e703df459189e7bd3edfa22, type: 2}

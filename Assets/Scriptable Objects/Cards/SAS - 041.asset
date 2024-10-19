@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 041
+  m_EditorClassIdentifier: 
+  cardTitle: Kreutalk
+  cardSubtitle: Defoe's Titan
+  cardType: 0
+  cardSubtype: 8
+  cardAlignment: 1
+  attackValue: 5
+  defenceValue: 4
+  cardVisual: {fileID: 21300000, guid: bebedff6030cb764e9d56f12f9ecddbd, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 563ff691ea8a56340839a544e272f9a8, type: 3}
+  cardIcon: {fileID: 21300000, guid: 421e70a635f0c034996be56fefb45796, type: 3}
+  cardText: I can move up to 3 zones while I have an object.
+  flavourText: "\"Kreutalk is drooling in anticipation.\" \u2013DeFoe"
+  cardSet: 0
+  cardNumber: 041
+  keywords: []

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 067
+  m_EditorClassIdentifier: 
+  cardTitle: The Riderless Chariot
+  cardSubtitle: Unstoppable Force
+  cardType: 1
+  cardSubtype: 5
+  cardAlignment: 0
+  attackValue: 2
+  defenceValue: 3
+  cardVisual: {fileID: 21300000, guid: e74d306986b42a5489290741b4f1ebde, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 3c8b353026dbc464b872d914ec756def, type: 3}
+  cardIcon: {fileID: 21300000, guid: 9b8a394a0857dab41abc72c4b393cb4b, type: 3}
+  cardText: "<b>Taxi</b> \u2014 Exhaust Action: You may play minor heroes into my
+    zone this round."
+  flavourText: It has carried heroes into battle for thousands of years.
+  cardSet: 0
+  cardNumber: 067
+  keywords: []

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 006
+  m_EditorClassIdentifier: 
+  cardTitle: Gybolg
+  cardSubtitle: Force of Nature
+  cardType: 0
+  cardSubtype: 3
+  cardAlignment: 0
+  attackValue: 4
+  defenceValue: 3
+  cardVisual: {fileID: 21300000, guid: 404e462712a60a0439659a91fa3f5f89, type: 3}
+  cardPortrait: {fileID: 21300000, guid: b720c4025fc1746489b4a1ed39c7ffca, type: 3}
+  cardIcon: {fileID: 21300000, guid: f7ce56f946819d14c8bb80feaec31c0d, type: 3}
+  cardText: "<b>Berserker</b> \u2014 When I start a combat, add 4 attacks to that
+    combat."
+  flavourText: Gybolg's strength comes from the Earth itself.
+  cardSet: 0
+  cardNumber: 006
+  keywords: []

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 009
+  m_EditorClassIdentifier: 
+  cardTitle: Kilthane
+  cardSubtitle: The Black Knight
+  cardType: 0
+  cardSubtype: 2
+  cardAlignment: 0
+  attackValue: 5
+  defenceValue: 4
+  cardVisual: {fileID: 21300000, guid: 8140acb420a76b64cb326dd699ac0117, type: 3}
+  cardPortrait: {fileID: 21300000, guid: d2ff740617cbd274cb4165da1713921b, type: 3}
+  cardIcon: {fileID: 21300000, guid: 37a021ae56accf74d800054aab340a91, type: 3}
+  cardText: "<b>Knight's Charge</b> \u2014 If you play me in round 3 or later, you
+    may play me into any zone where you already have a hero."
+  flavourText: 
+  cardSet: 0
+  cardNumber: 009
+  keywords: []

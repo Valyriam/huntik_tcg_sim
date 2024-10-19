@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 060
+  m_EditorClassIdentifier: 
+  cardTitle: Hoplite
+  cardSubtitle: Lionhearted
+  cardType: 1
+  cardSubtype: 5
+  cardAlignment: 0
+  attackValue: 2
+  defenceValue: 2
+  cardVisual: {fileID: 21300000, guid: 998469657f3ad984bb263b3a778ad589, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 70b108568c3d76a4aab249f06937ec93, type: 3}
+  cardIcon: {fileID: 21300000, guid: 25e6bf20c16c1f34e8dd22229aa515d3, type: 3}
+  cardText: "Teamwork \u2014 I get +1 ATK and +1 DEF for each other friendly minor
+    hero in my zone."
+  flavourText: "\"One Hoplite is a soldier. Two are an army.\" \u2013Dante Vale"
+  cardSet: 0
+  cardNumber: 060
+  keywords: []

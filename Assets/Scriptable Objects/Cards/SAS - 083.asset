@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 083
+  m_EditorClassIdentifier: 
+  cardTitle: Ice Creature
+  cardSubtitle: Minion of Ymir
+  cardType: 1
+  cardSubtype: 6
+  cardAlignment: 1
+  attackValue: 1
+  defenceValue: 2
+  cardVisual: {fileID: 21300000, guid: 4221226a3970c1042b479793a2798ffd, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 5e979a77829ad364888aa140470400d3, type: 3}
+  cardIcon: {fileID: 21300000, guid: b8895aef87801b245b3ade7ef495677d, type: 3}
+  cardText: When I'm KO'd, you may stun target enemy hero in my zone.
+  flavourText: "\"We'll never be able to defeat so many. We need a new plan.\" \u2013Dante
+    Vale"
+  cardSet: 0
+  cardNumber: 083
+  keywords:
+  - {fileID: 11400000, guid: a71628ff4e703df459189e7bd3edfa22, type: 2}

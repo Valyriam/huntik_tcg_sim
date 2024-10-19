@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 013
+  m_EditorClassIdentifier: 
+  cardTitle: Metagolem
+  cardSubtitle: Icon of History
+  cardType: 0
+  cardSubtype: 6
+  cardAlignment: 0
+  attackValue: 5
+  defenceValue: 6
+  cardVisual: {fileID: 21300000, guid: b59e21bf285302641864c32986f6be3b, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 575806c7ee0385d4585cd974a464b403, type: 3}
+  cardIcon: {fileID: 21300000, guid: ca0898dc9090b0445beac510d49acbf8, type: 3}
+  cardText: "<b>Unblockable</b> \nIf you have cards in your hand when I come into
+    play, eliminate me."
+  flavourText: 
+  cardSet: 0
+  cardNumber: 013
+  keywords:
+  - {fileID: 11400000, guid: 72a0d7730a6aa5246a224d3efb2a5fa6, type: 2}

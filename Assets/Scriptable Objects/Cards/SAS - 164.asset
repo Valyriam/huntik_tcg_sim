@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 164
+  m_EditorClassIdentifier: 
+  cardTitle: Ring of Arc
+  cardSubtitle: 
+  cardType: 4
+  cardSubtype: 15
+  cardAlignment: 2
+  attackValue: 0
+  defenceValue: 0
+  cardVisual: {fileID: 21300000, guid: b3c330aa31b7f964483237e4a20fa050, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 33c35f14f04e067449683e08893bcf38, type: 3}
+  cardIcon: {fileID: 0}
+  cardText: 'Lead heroes in this zone get "Free Action: I pick up the Ring of Arc."
+
+    A
+    hero with the Ring of Arc gets +2 ARK and +2 DEF.'
+  flavourText: 
+  cardSet: 0
+  cardNumber: 164
+  keywords: []

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 069
+  m_EditorClassIdentifier: 
+  cardTitle: Scolopen
+  cardSubtitle: Centipede-Neck
+  cardType: 1
+  cardSubtype: 8
+  cardAlignment: 0
+  attackValue: 1
+  defenceValue: 1
+  cardVisual: {fileID: 21300000, guid: 179d84481ecb9874eb3397329319f11e, type: 3}
+  cardPortrait: {fileID: 21300000, guid: eff4a717686fac1489754b67fc1924da, type: 3}
+  cardIcon: {fileID: 21300000, guid: fc78c8a68f5c8b443b8692f709a5b8cc, type: 3}
+  cardText: "<b>Clone</b> \u2014 When you play me from your hand, you may search
+    either your deck or discard pile for another Scolopen card and put it into play
+    in my zone."
+  flavourText: "\"I don't know which is worse, the spiky club or that weird bug-head.\"
+    \u2013Suit"
+  cardSet: 0
+  cardNumber: 069
+  keywords: []

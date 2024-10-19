@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 093
+  m_EditorClassIdentifier: 
+  cardTitle: Strix
+  cardSubtitle: Swarm Fighter
+  cardType: 1
+  cardSubtype: 8
+  cardAlignment: 1
+  attackValue: 2
+  defenceValue: 1
+  cardVisual: {fileID: 21300000, guid: 702f3c17625cbc14a92e068bc915e1fc, type: 3}
+  cardPortrait: {fileID: 21300000, guid: c6a98575611cfb74181a8252f946b129, type: 3}
+  cardIcon: {fileID: 21300000, guid: 51a52d9518dd7da42b4318e1607e9e80, type: 3}
+  cardText: "<b>Sting</b> \u2014 Exhaust Action: Exhaust target minor hero."
+  flavourText: Like the ORganization, all Strix knows is strict order and cold aggression.
+  cardSet: 0
+  cardNumber: 093
+  keywords: []

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 068
+  m_EditorClassIdentifier: 
+  cardTitle: Riverjaw
+  cardSubtitle: Crocodile Guardian
+  cardType: 1
+  cardSubtype: 7
+  cardAlignment: 0
+  attackValue: 3
+  defenceValue: 4
+  cardVisual: {fileID: 21300000, guid: 0526a0806f488b747a006072b45172a4, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 555d23432be020e41b6b86bb82d48b0e, type: 3}
+  cardIcon: {fileID: 21300000, guid: e8653ad6680fe424ba1606527d774d38, type: 3}
+  cardText: "<b>Lazy</b> \u2014 I can't move on my own.\nExhaust Action: Start a
+    combat in my zone."
+  flavourText: Riverjaw is a territorial river spirit that prefers to wait until
+    its prey comes to it.
+  cardSet: 0
+  cardNumber: 068
+  keywords: []

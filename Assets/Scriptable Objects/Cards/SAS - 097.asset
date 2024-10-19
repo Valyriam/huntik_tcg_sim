@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba91961c4653a7e489d8c77d67c14e5d, type: 3}
+  m_Name: SAS - 097
+  m_EditorClassIdentifier: 
+  cardTitle: Wormwalker
+  cardSubtitle: Shambling Terror
+  cardType: 1
+  cardSubtype: 7
+  cardAlignment: 1
+  attackValue: 5
+  defenceValue: 2
+  cardVisual: {fileID: 21300000, guid: d2d568070a5b4f44f92c6dafd460c178, type: 3}
+  cardPortrait: {fileID: 21300000, guid: 3cab8f3dccdfbdc42b5c4575a4255385, type: 3}
+  cardIcon: {fileID: 21300000, guid: 95a82ead893b71a4ba5dedd57a49c63c, type: 3}
+  cardText: "<b>Creepycrawly</b> \u2014 I can only move 1 zone on my own."
+  flavourText: Wormwalker leaves behind a trail of worms and flies. The Aztecs had
+    rituals to protect against evil spirits like this.
+  cardSet: 0
+  cardNumber: 097
+  keywords: []
