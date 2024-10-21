@@ -4,12 +4,18 @@ using UnityEngine;
 
 public class CardStateManager : MonoBehaviour
 {
+    public enum CardMainStates { inHand, inPlay }
+    public enum CardSubStates { inactive, hovered, beingDragged, dropped }
+
     [SerializeField] CardVisual cardVisual;
     [SerializeField] CardData cardData;
 
-    [Header("State References")]
-
+    [Header("Core State")]
+    public CardMainStates cardMainState;
+    public CardSubStates cardSubState;
     [SerializeField] bool isFaceUp;
+
+    [Header("In Play State")]
     [SerializeField] int currentATK;
     [SerializeField] int currentDEF;
 
