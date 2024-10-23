@@ -4,8 +4,9 @@ using UnityEngine;
 
 public class CardStateManager : MonoBehaviour
 {
-    public enum CardMainStates { inHand, inPlay }
-    public enum CardSubStates { inactive, hovered, beingDragged, dropped }
+    public enum CardMainStates { inactive, inHand, inPlay }
+    public enum CardSubStates { inactive, ready, beingDragged, dropped }
+    public enum CardPlayStates { inactive, canMove, moved }
 
     [SerializeField] CardVisual cardVisual;
     [SerializeField] CardData cardData;
@@ -13,6 +14,7 @@ public class CardStateManager : MonoBehaviour
     [Header("Core State")]
     public CardMainStates cardMainState;
     public CardSubStates cardSubState;
+    public CardPlayStates cardPlayState;
     [SerializeField] bool isFaceUp;
 
     [Header("In Play State")]
@@ -42,5 +44,18 @@ public class CardStateManager : MonoBehaviour
     }
 
     public void FlipCard() => cardVisual.FlipCard();
+
+    public bool IsDraggable()
+    {
+        bool isDraggable = false;
+
+        if (cardSubState == CardSubStates.ready || cardPlayState == CardPlayStates.canMove)
+            isDraggable = true;
+
+        else
+            isDraggable = false;
+
+        return isDraggable;
+    }
 
 }

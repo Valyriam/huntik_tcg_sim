@@ -6,31 +6,49 @@ using Unity.UI;
 
 public class CardDrag : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
 {
-    RectTransform rectTransform;
-    CanvasGroup canvasGroup;
+    [SerializeField] RectTransform rectTransform;
+    [SerializeField] CanvasGroup canvasGroup;
     Vector2 originalPosition;
+    Canvas canvas;
+    [SerializeField] CardStateManager cardStateManager;
 
     void Awake()
     {
-        rectTransform = GetComponent<RectTransform>();
-        canvasGroup = GetComponent<CanvasGroup>();
+        //SetParentCanvas();
+    }
+
+    void SetParentCanvas()
+    {
+        canvas = transform.GetComponentInParent<Canvas>();
     }
 
     public void OnBeginDrag(PointerEventData eventData)
     {
-        originalPosition = rectTransform.position;
-        canvasGroup.blocksRaycasts = false; 
+        if (cardStateManager.IsDraggable())
+        {
+            originalPosition = rectTransform.position;
+            canvasGroup.blocksRaycasts = false;
+            cardStateManager.cardSubState = CardStateManager.CardSubStates.beingDragged;
+        }
     }
 
     public void OnDrag(PointerEventData eventData)
     {
-        Debug.Log("Dragging");
-        rectTransform.position = Input.mousePosition;
+        if (cardStateManager.cardSubState == CardStateManager.CardSubStates.beingDragged) 
+        { 
+            rectTransform.position = Input.mousePosition;         
+        }
     }
 
     public void OnEndDrag(PointerEventData eventData)
     {
-        canvasGroup.blocksRaycasts = true;
-        rectTransform.position = originalPosition;
+        if (cardStateManager.cardSubState == CardStateManager.CardSubStates.beingDragged)
+        {
+            canvasGroup.blocksRaycasts = true;
+            rectTransform.position = originalPosition;
+            cardStateManager.cardSubState = CardStateManager.CardSubStates.ready;
+
+            //SetParentCanvas();
+        }
     }
 }
